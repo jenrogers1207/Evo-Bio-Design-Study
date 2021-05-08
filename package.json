@@ -56,7 +56,7 @@
     "d3-array": "^2.4.0",
     "d3-simple-slider": "^1.5.4",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "papaparse": "^5.1.0",
     "tar": "^4.4.13"
   }
